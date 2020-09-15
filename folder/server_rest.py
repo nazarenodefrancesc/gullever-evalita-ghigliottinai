@@ -90,7 +90,7 @@ def do_callback_response(callback, game_id, solution):
         payload = {
             "game_id": game_id,
             "uuid": "1bd8c8a3-a41d-11ea-8ea7-4a535f44e15a",
-            "solution": '"' + solution + '"',
+            "solution": solution,
         }
         req = requests.post(
             callback,

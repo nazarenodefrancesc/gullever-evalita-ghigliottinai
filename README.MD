@@ -23,3 +23,8 @@
 - Per installare Glove-Trainer:
     - pip install https://github.com/JonathanRaiman/glove/archive/master.zip
 
+- Build immagine docker:
+    - docker build -t evalita-ghigliottinai:<data> .
+
+- Run immagine docker:
+    - docker run -p 5001:5001 --name evalita-ghigliottinai evalita-ghigliottinai:<data>

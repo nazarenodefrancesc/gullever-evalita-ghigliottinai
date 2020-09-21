@@ -22,7 +22,7 @@ from spacy_stanza import StanzaLanguage
 from stop_words import get_stop_words
 from nltk.corpus import stopwords
 
-import texmega.texmega as texmega
+from texmega import texmega
 
 if not os.path.exists("../resources/stopwords.zip"):
     nltk.data.path.append("../resources")
@@ -1287,7 +1287,7 @@ def final_stats(
     start_time,
     exec_times,
     guillotine_count,
-    i
+    i,
 ):
     print_cosins_of_bestmatches(best_matches, model, norm_idfs, solution, wordlist, n=3)
 

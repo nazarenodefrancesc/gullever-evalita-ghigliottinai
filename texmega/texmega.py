@@ -11,12 +11,7 @@ from scipy import spatial
 
 import config
 from logging_conf import LOGGING_CONF
-from texmega.texmega_utils import (
-    findBestMatch,
-    isInWordList,
-    search_solution,
-    strip_lower_fix,
-)
+from texmega import texmega_utils
 
 log = logging.getLogger()
 logging.config.dictConfig(LOGGING_CONF)
@@ -334,7 +329,7 @@ def sort_vocab_by_fitness(
     for word_tuple in all_word_in_vocab:
         word = word_tuple[0]
         pos = word_tuple[1]
-        if not isInWordList(word, wordlist, lemma_pos_cache, stemm_cache):
+        if not texmega_utils.isInWordList(word, wordlist, lemma_pos_cache, stemm_cache):
             fitness = fitnessEvaluation(model, wordlist, norm_idfs, model[word], word)[
                 0
             ]
@@ -494,7 +489,7 @@ def exhaustive_search(
     best_matches = sort_vocab_by_fitness(
         all_word_in_vocab, model, wordlist, norm_idfs, lemma_pos_cache, stemm_cache
     )
-    best_matches = strip_lower_fix(best_matches)
+    best_matches = texmega_utils.strip_lower_fix(best_matches)
     solution_match = best_matches[0]
 
     if config.REORDERED_RESULTS is not None:
@@ -504,7 +499,7 @@ def exhaustive_search(
     end_time = time.time() - start_time
     log.info(f"Time taken in singleprocess:: {end_time}s")
 
-    solution_position, found = search_solution(best_matches, solution, lemma_pos_cache)
+    solution_position, found = texmega_utils.search_solution(best_matches, solution, lemma_pos_cache)
 
     if not found and solution is not None:
         all_words = [word[0] for word in all_word_in_vocab]
@@ -565,7 +560,7 @@ def genetic_algorithm(
         solution_match,
         position_freq_not_sorted,
         position_freq_sorted,
-    ) = findBestMatch(
+    ) = texmega_utils.findBestMatch(
         model,
         wordlist,
         solution,

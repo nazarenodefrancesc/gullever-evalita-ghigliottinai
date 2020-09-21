@@ -1,13 +1,17 @@
 #!/usr/bin/env python
 # coding: utf-8
+
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+print(f"Working dir:: {os.getcwd()}")
+
 import socket
 import requests
 from collections import defaultdict
 
 import flask
 import config
-from texmega import texmega
-from texmega import texmega_utils
+from texmega import texmega_utils, texmega
 from flask import Flask, request, jsonify, json
 
 import logging.config
@@ -15,6 +19,14 @@ from logging_conf import LOGGING_CONF
 
 log = logging.getLogger()
 logging.config.dictConfig(LOGGING_CONF)
+
+import stanza
+
+for lang in ["it"]:
+    try:
+        stanza.Pipeline(lang)
+    except:
+        stanza.download(lang)
 
 ### VARIABLES
 

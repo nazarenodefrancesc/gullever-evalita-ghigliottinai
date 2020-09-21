@@ -39,20 +39,6 @@ def _pre_install():
     )
 
 
-class PostDevelopCommand(develop):
-    """Post-installation for development mode."""
-
-    def init(self, *args, **kwargs):
-        super().init(*args, **kwargs)
-        atexit.register(_post_install)
-
-    def run(self):
-        # _pre_install()
-        develop.run(self)
-        _post_install()
-        # PUT YOUR POST-INSTALL SCRIPT HERE or CALL A FUNCTION
-
-
 class PostInstallCommand(install):
     """Post-installation for installation mode."""
 
@@ -64,6 +50,7 @@ class PostInstallCommand(install):
         # _pre_install()
         install.run(self)
         _post_install()
+        # PUT YOUR POST-INSTALL SCRIPT HERE or CALL A FUNCTION
 
 
 def download_stanza_models():
@@ -77,8 +64,8 @@ def download_stanza_models():
 
 
 setup(
-    name="texmega_py",
-    version="0.1",
+    name="evalita-ghigliottinai",
+    version="1.0",
     url="",
     license="",
     author="nazareno.defrancesco",

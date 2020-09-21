@@ -8,7 +8,7 @@ SEARCH_MODE = "exhaustive_search"
 MODEL = "pkl"
 
 EMBEDDINGS_MODEL_PATH = (
-    "resources/embeddings/glove_[min200_600_win10_ite50_xmax10]_songs_2020_08_29_texmega_py_[default].pkl"  # 81
+    "./resources/embeddings/glove_[min200_600_win10_ite50_xmax10]_songs_2020_08_29_texmega_py_[default].pkl"  # 81
 )
 
 DEFAULT_POS_CACHE_PATH = "resources/lemma_pos_cache/lemma_pos_cache_[glove_[min100_300_win10_ite50_xmax10_041]].pkl_fixed.pkl"

@@ -1,6 +1,0 @@
-setup.py
-evalita_ghigliottinai.egg-info/PKG-INFO
-evalita_ghigliottinai.egg-info/SOURCES.txt
-evalita_ghigliottinai.egg-info/dependency_links.txt
-evalita_ghigliottinai.egg-info/requires.txt
-evalita_ghigliottinai.egg-info/top_level.txt

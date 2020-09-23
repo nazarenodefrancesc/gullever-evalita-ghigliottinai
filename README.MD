@@ -1,5 +1,8 @@
 # EVALITA-GHIGLIOTTINAI
 
+#GU.L.LI.VER
+#GUillotine gLove ceLI resolVER
+
 ## INSTALLAZIONE
 
 - (SOLO PER WINDOWS) prima di avviare il setup.py, installare pytorch

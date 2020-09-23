@@ -14,16 +14,16 @@
 
     -   pip install --user -e .
 
-- Per scaricare i modelli di stanza in italiano:
+- Per scaricare i modelli di stanza in italiano (non necessario se si utilizza il setup.py):
 
     -   python download_stanza_models.py
     
-- Per scaricare i modelli di Glove/Word2Vec basati su Wikipedia italiano:
+- Per scaricare i modelli di Glove/Word2Vec basati su Wikipedia italiano (non necessari):
 
     - http://hlt.isti.cnr.it/wordembeddings/skipgram_wiki_window10_size300_neg-samples10.tar.gz
     - http://hlt.isti.cnr.it/wordembeddings/glove_wiki_window10_size300_iteration50.tar.gz
    
-- Per installare Glove-Trainer:
+- Per installare Glove-Trainer (non necessario):
     - pip install https://github.com/JonathanRaiman/glove/archive/master.zip
 
 - Build immagine docker:

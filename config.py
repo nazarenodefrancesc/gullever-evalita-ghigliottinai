@@ -22,7 +22,7 @@ PMI_DICTIONARY_PATH = (
 # PMI_DICTIONARY_PATH = f"./cooccurrence_matrix/pmi_dictionary_pattern_mining_corpus_2020_09_03.txt.pkl"
 
 # TEST_PATH = None
-TEST_PATH = "test_datasets/ghigliottinai_dataset.json"
+TEST_PATH = "test_datasets/Ghigliottin-AI_2020-gulliver.json"
 
 dataset_id = TEST_PATH.replace("/", "_") if TEST_PATH is not None else "Custom"
 note = "whitelist_noun_adj_filterfix_poscachefix_cleanwhitelist_mean*idf"

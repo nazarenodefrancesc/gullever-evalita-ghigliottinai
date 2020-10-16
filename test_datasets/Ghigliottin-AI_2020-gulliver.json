@@ -1,0 +1,2802 @@
+[
+    {
+        "w1": "calcio",
+        "w2": "stato",
+        "w3": "vivere",
+        "w4": "tariffa",
+        "w5": "voto",
+        "solution": "estero"
+    },
+    {
+        "w1": "fare",
+        "w2": "saldo",
+        "w3": "interessato",
+        "w4": "grande",
+        "w5": "attenzione",
+        "solution": "richiesta"
+    },
+    {
+        "w1": "mal",
+        "w2": "passato",
+        "w3": "sarto",
+        "w4": "viva",
+        "w5": "angolo",
+        "solution": "pietra"
+    },
+    {
+        "w1": "medicina",
+        "w2": "luce",
+        "w3": "nazionale",
+        "w4": "corsia",
+        "w5": "uscita",
+        "solution": "emergenza"
+    },
+    {
+        "w1": "prima",
+        "w2": "periodo",
+        "w3": "stampa",
+        "w4": "eroe",
+        "w5": "ottobre",
+        "solution": "rivoluzione"
+    },
+    {
+        "w1": "più",
+        "w2": "vendere",
+        "w3": "conto",
+        "w4": "buona",
+        "w5": "palazzo",
+        "solution": "ragione"
+    },
+    {
+        "w1": "radio",
+        "w2": "facile",
+        "w3": "guerra",
+        "w4": "scout",
+        "w5": "pace",
+        "solution": "sentiero"
+    },
+    {
+        "w1": "ingresso",
+        "w2": "discesa",
+        "w3": "stilo",
+        "w4": "marconi",
+        "w5": "tetto",
+        "solution": "antenna"
+    },
+    {
+        "w1": "neve",
+        "w2": "diego",
+        "w3": "cavalcare",
+        "w4": "reale",
+        "w5": "uomo",
+        "solution": "tigre"
+    },
+    {
+        "w1": "consumare",
+        "w2": "comune",
+        "w3": "patrimonio",
+        "w4": "ristorante cinese",
+        "w5": "castigo",
+        "solution": "delitto"
+    },
+    {
+        "w1": "tempo",
+        "w2": "essere",
+        "w3": "cavalli",
+        "w4": "scarpe",
+        "w5": "ultima",
+        "solution": "corsa"
+    },
+    {
+        "w1": "tetto",
+        "w2": "tom",
+        "w3": "tronchi",
+        "w4": "pancia",
+        "w5": "cuori",
+        "solution": "capanna"
+    },
+    {
+        "w1": "perdere",
+        "w2": "amicizia",
+        "w3": "bottiglia",
+        "w4": "acqua",
+        "w5": "quattro",
+        "solution": "segno"
+    },
+    {
+        "w1": "romanzo",
+        "w2": "realtà",
+        "w3": "ordine",
+        "w4": "lotta",
+        "w5": "canone",
+        "solution": "evasione"
+    },
+    {
+        "w1": "dare",
+        "w2": "militare",
+        "w3": "funzione",
+        "w4": "aria",
+        "w5": "viaggio",
+        "solution": "sveglia"
+    },
+    {
+        "w1": "lana",
+        "w2": "gruppo",
+        "w3": "capitale",
+        "w4": "matrimonio",
+        "w5": "doppio",
+        "solution": "misto"
+    },
+    {
+        "w1": "mettere",
+        "w2": "via",
+        "w3": "camere",
+        "w4": "essere",
+        "w5": "mezzo",
+        "solution": "comunicazione"
+    },
+    {
+        "w1": "chiave",
+        "w2": "mezzo",
+        "w3": "verso",
+        "w4": "sindrome",
+        "w5": "gioco",
+        "solution": "pollice"
+    },
+    {
+        "w1": "arte",
+        "w2": "acciaio",
+        "w3": "cappello",
+        "w4": "roccia",
+        "w5": "col",
+        "solution": "lana"
+    },
+    {
+        "w1": "storia",
+        "w2": "fare",
+        "w3": "industria",
+        "w4": "festa",
+        "w5": "autore",
+        "solution": "cinema"
+    },
+    {
+        "w1": "giovanni xxiii",
+        "w2": "usare",
+        "w3": "italiano",
+        "w4": "terracotta",
+        "w5": "salvezza",
+        "solution": "esercito"
+    },
+    {
+        "w1": "governo",
+        "w2": "cambio",
+        "w3": "assemblea",
+        "w4": "competente",
+        "w5": "legale",
+        "solution": "sede"
+    },
+    {
+        "w1": "fazzoletto",
+        "w2": "alto",
+        "w3": "allungare",
+        "w4": "braccio",
+        "w5": "osso",
+        "solution": "collo"
+    },
+    {
+        "w1": "aereo",
+        "w2": "scuola",
+        "w3": "tribunale",
+        "w4": "carriera",
+        "w5": "vita",
+        "solution": "militare"
+    },
+    {
+        "w1": "bella",
+        "w2": "fatti",
+        "w3": "scientifica",
+        "w4": "mettere",
+        "w5": "storie",
+        "solution": "evidenza"
+    },
+    {
+        "w1": "palazzo",
+        "w2": "primo",
+        "w3": "museo",
+        "w4": "leningrado",
+        "w5": "lemon",
+        "solution": "novecento"
+    },
+    {
+        "w1": "personale",
+        "w2": "mezzo",
+        "w3": "fazzoletto",
+        "w4": "paradiso",
+        "w5": "pancia",
+        "solution": "terra"
+    },
+    {
+        "w1": "pagina",
+        "w2": "portare",
+        "w3": "gente",
+        "w4": "legge",
+        "w5": "natura",
+        "solution": "rispetto"
+    },
+    {
+        "w1": "gruppo",
+        "w2": "lavoro",
+        "w3": "riservato",
+        "w4": "fissare",
+        "w5": "insegnanti",
+        "solution": "colloquio"
+    },
+    {
+        "w1": "mondiale",
+        "w2": "primo",
+        "w3": "pericolo",
+        "w4": "passaggio",
+        "w5": "preparazione",
+        "solution": "livello"
+    },
+    {
+        "w1": "grande",
+        "w2": "padre",
+        "w3": "segnale",
+        "w4": "sguardo",
+        "w5": "malattia",
+        "solution": "assente"
+    },
+    {
+        "w1": "anni",
+        "w2": "passare",
+        "w3": "special",
+        "w4": "sfumature",
+        "w5": "l",
+        "solution": "cinquanta"
+    },
+    {
+        "w1": "alto",
+        "w2": "tutto",
+        "w3": "faccia",
+        "w4": "vita",
+        "w5": "gran",
+        "solution": "volta"
+    },
+    {
+        "w1": "comando",
+        "w2": "capo",
+        "w3": "posta",
+        "w4": "centrale",
+        "w5": "via crucis",
+        "solution": "stazione"
+    },
+    {
+        "w1": "alto",
+        "w2": "terreno",
+        "w3": "studente",
+        "w4": "motore",
+        "w5": "titolo",
+        "solution": "rendimento"
+    },
+    {
+        "w1": "parlamento",
+        "w2": "leggenda",
+        "w3": "bar",
+        "w4": "dita",
+        "w5": "cinema muto",
+        "solution": "pianista"
+    },
+    {
+        "w1": "vita",
+        "w2": "tele",
+        "w3": "storico",
+        "w4": "cassetto",
+        "w5": "giallo",
+        "solution": "romanzo"
+    },
+    {
+        "w1": "grande",
+        "w2": "forte",
+        "w3": "rovinare",
+        "w4": "letto",
+        "w5": "venezia",
+        "solution": "piazza"
+    },
+    {
+        "w1": "fare",
+        "w2": "natura",
+        "w3": "pacco",
+        "w4": "mantello",
+        "w5": "sintesi",
+        "solution": "dono"
+    },
+    {
+        "w1": "arte",
+        "w2": "pasta",
+        "w3": "dolce",
+        "w4": "costruzione",
+        "w5": "rosa",
+        "solution": "legno"
+    },
+    {
+        "w1": "nazionale",
+        "w2": "muscolo",
+        "w3": "lavoro",
+        "w4": "proposta",
+        "w5": "firmare",
+        "solution": "contratto"
+    },
+    {
+        "w1": "nuovo",
+        "w2": "distanza",
+        "w3": "fiume",
+        "w4": "anno",
+        "w5": "legale",
+        "solution": "corso"
+    },
+    {
+        "w1": "palazzo",
+        "w2": "spaghetti",
+        "w3": "silvia",
+        "w4": "prima",
+        "w5": "aspettare",
+        "solution": "mezzanotte"
+    },
+    {
+        "w1": "campo",
+        "w2": "pensiero",
+        "w3": "passaggio",
+        "w4": "misurare",
+        "w5": "sentimento",
+        "solution": "profondità"
+    },
+    {
+        "w1": "mangiare",
+        "w2": "nuvola",
+        "w3": "ritornare",
+        "w4": "oro",
+        "w5": "due volte",
+        "solution": "polvere"
+    },
+    {
+        "w1": "gioco",
+        "w2": "pubblico",
+        "w3": "rosso",
+        "w4": "interno",
+        "w5": "libero",
+        "solution": "telefono"
+    },
+    {
+        "w1": "traffico",
+        "w2": "conto",
+        "w3": "spiegare",
+        "w4": "attenzione",
+        "w5": "vendita",
+        "solution": "dettaglio"
+    },
+    {
+        "w1": "ore",
+        "w2": "pesante",
+        "w3": "cura",
+        "w4": "arretrato",
+        "w5": "cascare",
+        "solution": "sonno"
+    },
+    {
+        "w1": "bello",
+        "w2": "aria",
+        "w3": "debole",
+        "w4": "dolori",
+        "w5": "mattone",
+        "solution": "stomaco"
+    },
+    {
+        "w1": "diritto",
+        "w2": "celeste",
+        "w3": "storia",
+        "w4": "amare",
+        "w5": "servire",
+        "solution": "patria"
+    },
+    {
+        "w1": "mondo",
+        "w2": "corda",
+        "w3": "cadere",
+        "w4": "altrui",
+        "w5": "mobili",
+        "solution": "scale"
+    },
+    {
+        "w1": "semplice",
+        "w2": "guardia",
+        "w3": "mezzo",
+        "w4": "cappello",
+        "w5": "vecchio",
+        "solution": "marinaio"
+    },
+    {
+        "w1": "borsa",
+        "w2": "andare",
+        "w3": "delegazione",
+        "w4": "vita",
+        "w5": "rosa",
+        "solution": "spiaggia"
+    },
+    {
+        "w1": "ufficio",
+        "w2": "lettera",
+        "w3": "fare",
+        "w4": "data",
+        "w5": "velocità",
+        "solution": "cambio"
+    },
+    {
+        "w1": "tutto",
+        "w2": "portare",
+        "w3": "segreto",
+        "w4": "vita",
+        "w5": "stelle",
+        "solution": "successo"
+    },
+    {
+        "w1": "gioco",
+        "w2": "pelle",
+        "w3": "zero",
+        "w4": "traffico",
+        "w5": "mono",
+        "solution": "volume"
+    },
+    {
+        "w1": "freccia",
+        "w2": "partito",
+        "w3": "palazzo",
+        "w4": "sotto",
+        "w5": "tornante",
+        "solution": "ala"
+    },
+    {
+        "w1": "rai",
+        "w2": "ricordi",
+        "w3": "vita",
+        "w4": "inizio",
+        "w5": "tutti",
+        "solution": "scuola"
+    },
+    {
+        "w1": "festa",
+        "w2": "tutta",
+        "w3": "salsicce",
+        "w4": "monaci",
+        "w5": "fusto",
+        "solution": "birra"
+    },
+    {
+        "w1": "scoprire",
+        "w2": "gioco",
+        "w3": "lettura",
+        "w4": "credito",
+        "w5": "quarantotto",
+        "solution": "carte"
+    },
+    {
+        "w1": "malattia",
+        "w2": "parete",
+        "w3": "partire",
+        "w4": "corda",
+        "w5": "posizione",
+        "solution": "quarta"
+    },
+    {
+        "w1": "brutto",
+        "w2": "andare",
+        "w3": "farina",
+        "w4": "fretta",
+        "w5": "casa",
+        "solution": "diavolo"
+    },
+    {
+        "w1": "situazione",
+        "w2": "zero",
+        "w3": "artificiale",
+        "w4": "legge",
+        "w5": "centro",
+        "solution": "gravità"
+    },
+    {
+        "w1": "gioco",
+        "w2": "spedizione",
+        "w3": "maglia",
+        "w4": "marco",
+        "w5": "positivo",
+        "solution": "polo"
+    },
+    {
+        "w1": "minuto",
+        "w2": "problema",
+        "w3": "stato",
+        "w4": "spiaggia",
+        "w5": "forte",
+        "solution": "fisico"
+    },
+    {
+        "w1": "prezzo",
+        "w2": "dare",
+        "w3": "morto",
+        "w4": "spirito",
+        "w5": "cura",
+        "solution": "corpo"
+    },
+    {
+        "w1": "sole",
+        "w2": "sorriso",
+        "w3": "telefono",
+        "w4": "colore",
+        "w5": "motore",
+        "solution": "spento"
+    },
+    {
+        "w1": "orbita",
+        "w2": "biglietto",
+        "w3": "pettine",
+        "w4": "interno",
+        "w5": "manovra",
+        "solution": "parcheggio"
+    },
+    {
+        "w1": "gran",
+        "w2": "dolce",
+        "w3": "passaggio",
+        "w4": "specchio",
+        "w5": "sahara",
+        "solution": "segreto"
+    },
+    {
+        "w1": "niente",
+        "w2": "piccolo",
+        "w3": "articolo",
+        "w4": "prezzo",
+        "w5": "buono",
+        "solution": "sconto"
+    },
+    {
+        "w1": "a.m.",
+        "w2": "cambiare",
+        "w3": "due",
+        "w4": "carta",
+        "w5": "vecchie",
+        "solution": "lire"
+    },
+    {
+        "w1": "altro",
+        "w2": "senza",
+        "w3": "mattina",
+        "w4": "meteo",
+        "w5": "oggi",
+        "solution": "domani"
+    },
+    {
+        "w1": "lavoro",
+        "w2": "invitare",
+        "w3": "dolce",
+        "w4": "letto",
+        "w5": "aragosta",
+        "solution": "colazione"
+    },
+    {
+        "w1": "dimostrare",
+        "w2": "oro",
+        "w3": "corpo",
+        "w4": "uomo",
+        "w5": "familiare",
+        "solution": "carattere"
+    },
+    {
+        "w1": "neri",
+        "w2": "mezzi",
+        "w3": "visita",
+        "w4": "lontani",
+        "w5": "serpenti",
+        "solution": "parenti"
+    },
+    {
+        "w1": "posizione",
+        "w2": "scorta",
+        "w3": "viaggio",
+        "w4": "officina",
+        "w5": "bianca",
+        "solution": "nave"
+    },
+    {
+        "w1": "legge",
+        "w2": "segnale",
+        "w3": "fedeltà",
+        "w4": "assumere",
+        "w5": "militare",
+        "solution": "obbligo"
+    },
+    {
+        "w1": "giovanna",
+        "w2": "palla",
+        "w3": "folla",
+        "w4": "acqua",
+        "w5": "gioia",
+        "solution": "pazza"
+    },
+    {
+        "w1": "muro",
+        "w2": "speciale",
+        "w3": "casa",
+        "w4": "sport",
+        "w5": "viola",
+        "solution": "squadra"
+    },
+    {
+        "w1": "diventare",
+        "w2": "modello",
+        "w3": "privato",
+        "w4": "sportello",
+        "w5": "indagine",
+        "solution": "cittadino"
+    },
+    {
+        "w1": "carità",
+        "w2": "fedele",
+        "w3": "muto",
+        "w4": "vostro",
+        "w5": "sterzo",
+        "solution": "servo"
+    },
+    {
+        "w1": "incontro",
+        "w2": "scuola",
+        "w3": "fare",
+        "w4": "immagine",
+        "w5": "natura",
+        "solution": "ritorno"
+    },
+    {
+        "w1": "studio",
+        "w2": "vestire",
+        "w3": "notte",
+        "w4": "povero",
+        "w5": "montalbano",
+        "solution": "giovane"
+    },
+    {
+        "w1": "francese",
+        "w2": "salute",
+        "w3": "porto",
+        "w4": "traviata",
+        "w5": "sposi",
+        "solution": "brindisi"
+    },
+    {
+        "w1": "cravatta",
+        "w2": "neve",
+        "w3": "smartino",
+        "w4": "pizza",
+        "w5": "altare",
+        "solution": "pala"
+    },
+    {
+        "w1": "mario",
+        "w2": "cane",
+        "w3": "battista",
+        "w4": "buon",
+        "w5": "presepe",
+        "solution": "pastore"
+    },
+    {
+        "w1": "amore",
+        "w2": "vita",
+        "w3": "casa",
+        "w4": "coltivare",
+        "w5": "brutto",
+        "solution": "sogno"
+    },
+    {
+        "w1": "esercizio",
+        "w2": "premio",
+        "w3": "espressione",
+        "w4": "dubbio",
+        "w5": "aspettare",
+        "solution": "risultato"
+    },
+    {
+        "w1": "auto",
+        "w2": "ragazza",
+        "w3": "andare",
+        "w4": "militare",
+        "w5": "coda",
+        "solution": "treno"
+    },
+    {
+        "w1": "libertà",
+        "w2": "minuto",
+        "w3": "capo",
+        "w4": "notte",
+        "w5": "furore",
+        "solution": "popolo"
+    },
+    {
+        "w1": "andare",
+        "w2": "campanile",
+        "w3": "scuola",
+        "w4": "tavola",
+        "w5": "maestra",
+        "solution": "vela"
+    },
+    {
+        "w1": "tempo",
+        "w2": "piede",
+        "w3": "guadagnare",
+        "w4": "sonno",
+        "w5": "prezzo",
+        "solution": "giusto"
+    },
+    {
+        "w1": "tirare",
+        "w2": "zucchero",
+        "w3": "consegna",
+        "w4": "sorpresa",
+        "w5": "x",
+        "solution": "pacco"
+    },
+    {
+        "w1": "ministero",
+        "w2": "cinema",
+        "w3": "fare",
+        "w4": "numero",
+        "w5": "nera",
+        "solution": "magia"
+    },
+    {
+        "w1": "cantare",
+        "w2": "telefono",
+        "w3": "cuffia",
+        "w4": "piatto",
+        "w5": "psyco",
+        "solution": "doccia"
+    },
+    {
+        "w1": "punizione",
+        "w2": "lancio",
+        "w3": "orchestra",
+        "w4": "man",
+        "w5": "commercio",
+        "solution": "camera"
+    },
+    {
+        "w1": "paradiso",
+        "w2": "bordo",
+        "w3": "sud",
+        "w4": "nino",
+        "w5": "casa",
+        "solution": "benvenuti"
+    },
+    {
+        "w1": "vita",
+        "w2": "aspettare",
+        "w3": "luce",
+        "w4": "star",
+        "w5": "civiltà",
+        "solution": "tramonto"
+    },
+    {
+        "w1": "credere",
+        "w2": "bravi",
+        "w3": "paese",
+        "w4": "zero",
+        "w5": "solite",
+        "solution": "chiacchiere"
+    },
+    {
+        "w1": "perdere",
+        "w2": "fantasia",
+        "w3": "manuale",
+        "w4": "diretto",
+        "w5": "angelo",
+        "solution": "volo"
+    },
+    {
+        "w1": "matrimonio",
+        "w2": "vendere",
+        "w3": "generale",
+        "w4": "militare",
+        "w5": "repubblica",
+        "solution": "procura"
+    },
+    {
+        "w1": "essere",
+        "w2": "uso",
+        "w3": "piatto",
+        "w4": "decollo",
+        "w5": "intervento",
+        "solution": "pronto"
+    },
+    {
+        "w1": "frazione",
+        "w2": "rimanere",
+        "w3": "stazione",
+        "w4": "rapporto",
+        "w5": "consegna",
+        "solution": "termini"
+    },
+    {
+        "w1": "lato",
+        "w2": "disturbo",
+        "w3": "bordo",
+        "w4": "temporale",
+        "w5": "clandestino",
+        "solution": "passeggero"
+    },
+    {
+        "w1": "termine",
+        "w2": "costo",
+        "w3": "uomo",
+        "w4": "dito",
+        "w5": "oriente",
+        "solution": "medio"
+    },
+    {
+        "w1": "portare",
+        "w2": "numeri",
+        "w3": "annuncio",
+        "w4": "leggero",
+        "w5": "consegna",
+        "solution": "ritardo"
+    },
+    {
+        "w1": "semplice",
+        "w2": "costruzione",
+        "w3": "metà",
+        "w4": "effetto",
+        "w5": "giorno",
+        "solution": "frase"
+    },
+    {
+        "w1": "contemporaneo",
+        "w2": "bianco",
+        "w3": "chaplin",
+        "w4": "stelle",
+        "w5": "pista",
+        "solution": "circo"
+    },
+    {
+        "w1": "focaccia",
+        "w2": "scendere",
+        "w3": "abbigliamento",
+        "w4": "giochi",
+        "w5": "tipo",
+        "solution": "spiaggia"
+    },
+    {
+        "w1": "gesto",
+        "w2": "braccio",
+        "w3": "lavoro",
+        "w4": "orologio",
+        "w5": "tuta",
+        "solution": "meccanico"
+    },
+    {
+        "w1": "vita",
+        "w2": "cuore",
+        "w3": "cambiamento",
+        "w4": "campo",
+        "w5": "altezza",
+        "solution": "ostacoli"
+    },
+    {
+        "w1": "fare",
+        "w2": "niente",
+        "w3": "fumetti",
+        "w4": "fogli",
+        "w5": "paura",
+        "solution": "storie"
+    },
+    {
+        "w1": "verità",
+        "w2": "togliere",
+        "w3": "mondo",
+        "w4": "terra",
+        "w5": "marinaio",
+        "solution": "mezzo"
+    },
+    {
+        "w1": "metà",
+        "w2": "luna",
+        "w3": "lungo",
+        "w4": "riprendere",
+        "w5": "san francesco",
+        "solution": "cammino"
+    },
+    {
+        "w1": "campagna",
+        "w2": "città",
+        "w3": "macchina",
+        "w4": "scena",
+        "w5": "aria",
+        "solution": "aperta"
+    },
+    {
+        "w1": "lusso",
+        "w2": "spese",
+        "w3": "regolamento",
+        "w4": "portiere",
+        "w5": "riunione",
+        "solution": "condominio"
+    },
+    {
+        "w1": "pesce",
+        "w2": "cary grant",
+        "w3": "domestico",
+        "w4": "donna",
+        "w5": "zorba",
+        "solution": "gatto"
+    },
+    {
+        "w1": "occhio",
+        "w2": "valori",
+        "w3": "olio",
+        "w4": "pentola",
+        "w5": "fiscale",
+        "solution": "pressione"
+    },
+    {
+        "w1": "pubblico",
+        "w2": "durata",
+        "w3": "dare",
+        "w4": "calciatore",
+        "w5": "garanzia",
+        "solution": "prestito"
+    },
+    {
+        "w1": "preparare",
+        "w2": "incontro",
+        "w3": "perdere",
+        "w4": "piacere",
+        "w5": "lotto",
+        "solution": "terreno"
+    },
+    {
+        "w1": "vita",
+        "w2": "omaggio",
+        "w3": "marito",
+        "w4": "pena",
+        "w5": "unico",
+        "solution": "esemplare"
+    },
+    {
+        "w1": "stare",
+        "w2": "prodotto",
+        "w3": "governo",
+        "w4": "primo",
+        "w5": "lotto",
+        "solution": "banco"
+    },
+    {
+        "w1": "fondo",
+        "w2": "lavoro",
+        "w3": "segreto",
+        "w4": "giornale",
+        "w5": "pesi e misure",
+        "solution": "archivio"
+    },
+    {
+        "w1": "bar",
+        "w2": "moneta",
+        "w3": "avanti",
+        "w4": "acquisti",
+        "w5": "abbassare",
+        "solution": "carrello"
+    },
+    {
+        "w1": "orchestra",
+        "w2": "meno",
+        "w3": "oggi",
+        "w4": "largo",
+        "w5": "leoni",
+        "solution": "giovani"
+    },
+    {
+        "w1": "pagare",
+        "w2": "casa",
+        "w3": "spirito",
+        "w4": "costo",
+        "w5": "modo",
+        "solution": "persona"
+    },
+    {
+        "w1": "parola",
+        "w2": "presidente",
+        "w3": "premio",
+        "w4": "popolare",
+        "w5": "banco",
+        "solution": "giuria"
+    },
+    {
+        "w1": "voi",
+        "w2": "togliere",
+        "w3": "mezzo",
+        "w4": "fonte",
+        "w5": "vista",
+        "solution": "guai"
+    },
+    {
+        "w1": "vita",
+        "w2": "affrontare",
+        "w3": "partenza",
+        "w4": "cima",
+        "w5": "ascensore",
+        "solution": "salita"
+    },
+    {
+        "w1": "danza",
+        "w2": "volo",
+        "w3": "pasti",
+        "w4": "albergo",
+        "w5": "piccole",
+        "solution": "ore"
+    },
+    {
+        "w1": "rispondere",
+        "w2": "parole",
+        "w3": "messa",
+        "w4": "sacro",
+        "w5": "amico",
+        "solution": "fuoco"
+    },
+    {
+        "w1": "gruppo",
+        "w2": "pericolo",
+        "w3": "calcio",
+        "w4": "entrare",
+        "w5": "fatto",
+        "solution": "società"
+    },
+    {
+        "w1": "questione",
+        "w2": "indagine",
+        "w3": "disegno",
+        "w4": "pagamento",
+        "w5": "lavorare",
+        "solution": "metodo"
+    },
+    {
+        "w1": "chiedere",
+        "w2": "carico",
+        "w3": "principe",
+        "w4": "vacanza",
+        "w5": "prima",
+        "solution": "moglie"
+    },
+    {
+        "w1": "essere",
+        "w2": "coppia",
+        "w3": "sala",
+        "w4": "liscio",
+        "w5": "salsa",
+        "solution": "ballo"
+    },
+    {
+        "w1": "cucina",
+        "w2": "piede",
+        "w3": "colpo",
+        "w4": "campane",
+        "w5": "orecchio",
+        "solution": "martello"
+    },
+    {
+        "w1": "riposo",
+        "w2": "sentire",
+        "w3": "orologio",
+        "w4": "animale",
+        "w5": "ciglia",
+        "solution": "battito"
+    },
+    {
+        "w1": "grande",
+        "w2": "inglese",
+        "w3": "scarpe",
+        "w4": "nebbia",
+        "w5": "africa",
+        "solution": "corno"
+    },
+    {
+        "w1": "copertina",
+        "w2": "dimensione",
+        "w3": "persona",
+        "w4": "seno",
+        "w5": "età",
+        "solution": "terza"
+    },
+    {
+        "w1": "flash",
+        "w2": "pino",
+        "w3": "dimenticare",
+        "w4": "sotto",
+        "w5": "stecche",
+        "solution": "ombrello"
+    },
+    {
+        "w1": "saltare",
+        "w2": "mille",
+        "w3": "palla",
+        "w4": "ragazza",
+        "w5": "fumo",
+        "solution": "occhi"
+    },
+    {
+        "w1": "avere",
+        "w2": "oro",
+        "w3": "selvaggio",
+        "w4": "c'era",
+        "w5": "fortunato",
+        "solution": "ragazzo"
+    },
+    {
+        "w1": "brutto",
+        "w2": "fare",
+        "w3": "morto",
+        "w4": "cavaliere",
+        "w5": "diavolo",
+        "solution": "paura"
+    },
+    {
+        "w1": "corpo",
+        "w2": "fare",
+        "w3": "contro",
+        "w4": "bionda",
+        "w5": "niente",
+        "solution": "finta"
+    },
+    {
+        "w1": "entrare",
+        "w2": "diffusione",
+        "w3": "biblioteca",
+        "w4": "interesse",
+        "w5": "festa",
+        "solution": "nazionale"
+    },
+    {
+        "w1": "pane",
+        "w2": "domanda",
+        "w3": "alto",
+        "w4": "scoprire",
+        "w5": "amico",
+        "solution": "tradimento"
+    },
+    {
+        "w1": "giardino",
+        "w2": "insetti",
+        "w3": "censura",
+        "w4": "anelli",
+        "w5": "paio",
+        "solution": "forbici"
+    },
+    {
+        "w1": "impermeabile",
+        "w2": "gesso",
+        "w3": "duro",
+        "w4": "chiodo",
+        "w5": "parete",
+        "solution": "roccia"
+    },
+    {
+        "w1": "famiglia",
+        "w2": "frontale",
+        "w3": "stringere",
+        "w4": "frutto",
+        "w5": "materno",
+        "solution": "seno"
+    },
+    {
+        "w1": "rispetto",
+        "w2": "sonno",
+        "w3": "operazione",
+        "w4": "garanzia",
+        "w5": "gioco",
+        "solution": "debito"
+    },
+    {
+        "w1": "scrivere",
+        "w2": "rosso",
+        "w3": "colori",
+        "w4": "luce",
+        "w5": "inchiesta",
+        "solution": "film"
+    },
+    {
+        "w1": "fatti",
+        "w2": "risultato",
+        "w3": "gruppo",
+        "w4": "istituto",
+        "w5": "matematica",
+        "solution": "analisi"
+    },
+    {
+        "w1": "lavare",
+        "w2": "nuovo",
+        "w3": "espressione",
+        "w4": "maschera",
+        "w5": "pallido",
+        "solution": "viso"
+    },
+    {
+        "w1": "mettere",
+        "w2": "giorno",
+        "w3": "voto",
+        "w4": "tribunale",
+        "w5": "azione",
+        "solution": "libertà"
+    },
+    {
+        "w1": "caldo",
+        "w2": "fondo",
+        "w3": "uscire",
+        "w4": "serata",
+        "w5": "esame",
+        "solution": "tema"
+    },
+    {
+        "w1": "mai",
+        "w2": "parole",
+        "w3": "lasciare",
+        "w4": "limite",
+        "w5": "singolare",
+        "solution": "caso"
+    },
+    {
+        "w1": "successo",
+        "w2": "contatto",
+        "w3": "pericolo",
+        "w4": "aperto",
+        "w5": "mezzo",
+        "solution": "pubblico"
+    },
+    {
+        "w1": "carta",
+        "w2": "persona",
+        "w3": "forza",
+        "w4": "prova",
+        "w5": "attività",
+        "solution": "fisica"
+    },
+    {
+        "w1": "chitarra",
+        "w2": "tratto",
+        "w3": "bianca",
+        "w4": "rossa",
+        "w5": "sfera",
+        "solution": "penna"
+    },
+    {
+        "w1": "specchio",
+        "w2": "simbolo",
+        "w3": "diritto",
+        "w4": "sua",
+        "w5": "definizione",
+        "solution": "immagine"
+    },
+    {
+        "w1": "porta",
+        "w2": "acqua",
+        "w3": "polvere",
+        "w4": "piatti",
+        "w5": "scaglie",
+        "solution": "sapone"
+    },
+    {
+        "w1": "finire",
+        "w2": "tutta",
+        "w3": "brillante",
+        "w4": "italiana",
+        "w5": "maschera",
+        "solution": "commedia"
+    },
+    {
+        "w1": "lampada",
+        "w2": "spaghetti",
+        "w3": "capelli",
+        "w4": "freni",
+        "w5": "bolognese",
+        "solution": "pinza"
+    },
+    {
+        "w1": "dottore",
+        "w2": "capo",
+        "w3": "madre",
+        "w4": "silenzio",
+        "w5": "matrimonio",
+        "solution": "chiesa"
+    },
+    {
+        "w1": "cantare",
+        "w2": "forte",
+        "w3": "ragione",
+        "w4": "manifestare",
+        "w5": "patria",
+        "solution": "sentimento"
+    },
+    {
+        "w1": "banchi",
+        "w2": "incontrare",
+        "w3": "movimento",
+        "w4": "capo",
+        "w5": "pianeta",
+        "solution": "opposizione"
+    },
+    {
+        "w1": "parole",
+        "w2": "pieno",
+        "w3": "amore",
+        "w4": "profondo",
+        "w5": "brontolone",
+        "solution": "odio"
+    },
+    {
+        "w1": "pioggia",
+        "w2": "herrera",
+        "w3": "simon",
+        "w4": "cappello",
+        "w5": "tarocchi",
+        "solution": "mago"
+    },
+    {
+        "w1": "casa",
+        "w2": "fare",
+        "w3": "servizio",
+        "w4": "teatro",
+        "w5": "gigante",
+        "solution": "strada"
+    },
+    {
+        "w1": "punto",
+        "w2": "fuori",
+        "w3": "partenze",
+        "w4": "vivente",
+        "w5": "contratto",
+        "solution": "quadro"
+    },
+    {
+        "w1": "vecchio",
+        "w2": "cavallo",
+        "w3": "end",
+        "w4": "soda",
+        "w5": "conquista",
+        "solution": "west"
+    },
+    {
+        "w1": "gioco",
+        "w2": "trovare",
+        "w3": "fuori",
+        "w4": "dollaro",
+        "w5": "quadrato",
+        "solution": "area"
+    },
+    {
+        "w1": "passaggio",
+        "w2": "pieno",
+        "w3": "scena",
+        "w4": "spese",
+        "w5": "italia",
+        "solution": "centro"
+    },
+    {
+        "w1": "notte",
+        "w2": "soldi",
+        "w3": "cucina",
+        "w4": "vittoria",
+        "w5": "bruciato",
+        "solution": "odore"
+    },
+    {
+        "w1": "scoppio",
+        "w2": "frigorifero",
+        "w3": "piccolo",
+        "w4": "carnevale",
+        "w5": "attrezzi",
+        "solution": "carro"
+    },
+    {
+        "w1": "casa",
+        "w2": "passare",
+        "w3": "new york",
+        "w4": "tema",
+        "w5": "poesia",
+        "solution": "natale"
+    },
+    {
+        "w1": "vista",
+        "w2": "centro",
+        "w3": "rossa",
+        "w4": "pianeta",
+        "w5": "promessa",
+        "solution": "terra"
+    },
+    {
+        "w1": "modello",
+        "w2": "piccola",
+        "w3": "nuova",
+        "w4": "collegamento",
+        "w5": "esercizi",
+        "solution": "serie"
+    },
+    {
+        "w1": "manovra",
+        "w2": "bagaglio",
+        "w3": "prova",
+        "w4": "nave",
+        "w5": "armadio",
+        "solution": "cabina"
+    },
+    {
+        "w1": "cappello",
+        "w2": "meglio",
+        "w3": "cambiare",
+        "w4": "volta",
+        "w5": "gentile",
+        "solution": "tanto"
+    },
+    {
+        "w1": "fuori",
+        "w2": "pesante",
+        "w3": "santa",
+        "w4": "colpo",
+        "w5": "gioco",
+        "solution": "mano"
+    },
+    {
+        "w1": "trovare",
+        "w2": "lettura",
+        "w3": "tasto",
+        "w4": "arresto",
+        "w5": "prenotazione",
+        "solution": "conferma"
+    },
+    {
+        "w1": "andare",
+        "w2": "carico",
+        "w3": "mare",
+        "w4": "sole",
+        "w5": "ascolto",
+        "solution": "picco"
+    },
+    {
+        "w1": "arancia",
+        "w2": "calare",
+        "w3": "allarme",
+        "w4": "grotta",
+        "w5": "ondata",
+        "solution": "gelo"
+    },
+    {
+        "w1": "personale",
+        "w2": "servizio",
+        "w3": "cibo",
+        "w4": "volante",
+        "w5": "gomma",
+        "solution": "scorta"
+    },
+    {
+        "w1": "mettere",
+        "w2": "moto",
+        "w3": "collo",
+        "w4": "baffi",
+        "w5": "brutta",
+        "solution": "piega"
+    },
+    {
+        "w1": "diavolo",
+        "w2": "vita",
+        "w3": "braccio",
+        "w4": "tavola",
+        "w5": "inverno",
+        "solution": "mare"
+    },
+    {
+        "w1": "momento",
+        "w2": "parlare",
+        "w3": "circolazione",
+        "w4": "animali",
+        "w5": "medaglia",
+        "solution": "libertà"
+    },
+    {
+        "w1": "presidente",
+        "w2": "legge",
+        "w3": "centrale",
+        "w4": "militare",
+        "w5": "palazzo",
+        "solution": "regione"
+    },
+    {
+        "w1": "militare",
+        "w2": "lavoro",
+        "w3": "capo",
+        "w4": "prima",
+        "w5": "cellulare",
+        "solution": "divisione"
+    },
+    {
+        "w1": "mamma",
+        "w2": "scena",
+        "w3": "scuola",
+        "w4": "re",
+        "w5": "crudo",
+        "solution": "nudo"
+    },
+    {
+        "w1": "chiudere",
+        "w2": "vita",
+        "w3": "occhi",
+        "w4": "luce",
+        "w5": "lega",
+        "solution": "cerchio"
+    },
+    {
+        "w1": "operaio",
+        "w2": "consiglio",
+        "w3": "bene",
+        "w4": "senza",
+        "w5": "latino",
+        "solution": "quartiere"
+    },
+    {
+        "w1": "riso",
+        "w2": "corno",
+        "w3": "lingua",
+        "w4": "chiave",
+        "w5": "paziente",
+        "solution": "inglese"
+    },
+    {
+        "w1": "fede",
+        "w2": "catalogo",
+        "w3": "entrare",
+        "w4": "ignorante",
+        "w5": "sogni",
+        "solution": "materia"
+    },
+    {
+        "w1": "politica",
+        "w2": "notte",
+        "w3": "pesca",
+        "w4": "frutto",
+        "w5": "coltivare",
+        "solution": "passione"
+    },
+    {
+        "w1": "stella",
+        "w2": "pasticceria",
+        "w3": "bottega",
+        "w4": "russia",
+        "w5": "serenata",
+        "solution": "piccola"
+    },
+    {
+        "w1": "fare",
+        "w2": "sguardo",
+        "w3": "spazio",
+        "w4": "paura",
+        "w5": "peso",
+        "solution": "vuoto"
+    },
+    {
+        "w1": "senza",
+        "w2": "domenica",
+        "w3": "soldato",
+        "w4": "mobile",
+        "w5": "carriera",
+        "solution": "donna"
+    },
+    {
+        "w1": "vocale",
+        "w2": "capo",
+        "w3": "medico",
+        "w4": "inga",
+        "w5": "poltrona",
+        "solution": "assistente"
+    },
+    {
+        "w1": "gente",
+        "w2": "gentile",
+        "w3": "ogni",
+        "w4": "miglior",
+        "w5": "special",
+        "solution": "modo"
+    },
+    {
+        "w1": "avere",
+        "w2": "varietà",
+        "w3": "significato",
+        "w4": "libro",
+        "w5": "record",
+        "solution": "numeri"
+    },
+    {
+        "w1": "cartello",
+        "w2": "sub",
+        "w3": "prendere",
+        "w4": "nero",
+        "w5": "studenti",
+        "solution": "affitto"
+    },
+    {
+        "w1": "notte",
+        "w2": "sale",
+        "w3": "pezzo",
+        "w4": "custode",
+        "w5": "moma",
+        "solution": "museo"
+    },
+    {
+        "w1": "beppe",
+        "w2": "gamba",
+        "w3": "pasqua",
+        "w4": "valentino",
+        "w5": "prima",
+        "solution": "viola"
+    },
+    {
+        "w1": "tenere",
+        "w2": "lavoro",
+        "w3": "colpo",
+        "w4": "cuore",
+        "w5": "inverno",
+        "solution": "duro"
+    },
+    {
+        "w1": "mostrare",
+        "w2": "carattere",
+        "w3": "numero",
+        "w4": "titolo",
+        "w5": "chiacchiere",
+        "solution": "distintivo"
+    },
+    {
+        "w1": "nuovo",
+        "w2": "perdere",
+        "w3": "scuola",
+        "w4": "solo",
+        "w5": "fischio",
+        "solution": "inizio"
+    },
+    {
+        "w1": "naturale",
+        "w2": "segnare",
+        "w3": "guardia",
+        "w4": "stato",
+        "w5": "senza",
+        "solution": "confine"
+    },
+    {
+        "w1": "quadro",
+        "w2": "foto",
+        "w3": "naso",
+        "w4": "trucco",
+        "w5": "tariffe",
+        "solution": "ritocco"
+    },
+    {
+        "w1": "popolare",
+        "w2": "notturno",
+        "w3": "inferno",
+        "w4": "bel",
+        "w5": "alpino",
+        "solution": "canto"
+    },
+    {
+        "w1": "rispondere",
+        "w2": "spugna",
+        "w3": "motore",
+        "w4": "inchiostro",
+        "w5": "regolare",
+        "solution": "getto"
+    },
+    {
+        "w1": "famiglia",
+        "w2": "dare",
+        "w3": "esercizi",
+        "w4": "dritto",
+        "w5": "coperte",
+        "solution": "spalle"
+    },
+    {
+        "w1": "casa",
+        "w2": "firma",
+        "w3": "nome",
+        "w4": "nobile",
+        "w5": "vincenzo",
+        "solution": "padre"
+    },
+    {
+        "w1": "giornata",
+        "w2": "finire",
+        "w3": "stampa",
+        "w4": "studi",
+        "w5": "cemento",
+        "solution": "fresco"
+    },
+    {
+        "w1": "oro",
+        "w2": "mandare",
+        "w3": "cambio",
+        "w4": "lunga",
+        "w5": "parco",
+        "solution": "panchina"
+    },
+    {
+        "w1": "orario",
+        "w2": "contratto",
+        "w3": "automobile",
+        "w4": "largo",
+        "w5": "imposta",
+        "solution": "consumo"
+    },
+    {
+        "w1": "sala",
+        "w2": "foglio",
+        "w3": "gesto",
+        "w4": "sera",
+        "w5": "gloria",
+        "solution": "preghiera"
+    },
+    {
+        "w1": "punto",
+        "w2": "tenere",
+        "w3": "margine",
+        "w4": "spirito",
+        "w5": "stelle",
+        "solution": "osservazione"
+    },
+    {
+        "w1": "venere",
+        "w2": "fare",
+        "w3": "ballo",
+        "w4": "eduardo",
+        "w5": "oro",
+        "solution": "scarpetta"
+    },
+    {
+        "w1": "presa",
+        "w2": "telefono",
+        "w3": "pilota",
+        "w4": "rotto",
+        "w5": "neonato",
+        "solution": "cuffia"
+    },
+    {
+        "w1": "avere",
+        "w2": "attacco",
+        "w3": "colpo",
+        "w4": "nervosa",
+        "w5": "pulci",
+        "solution": "tosse"
+    },
+    {
+        "w1": "ambiente",
+        "w2": "morale",
+        "w3": "provocare",
+        "w4": "beffa",
+        "w5": "emergente",
+        "solution": "danno"
+    },
+    {
+        "w1": "volo",
+        "w2": "dare",
+        "w3": "mezzi",
+        "w4": "ente",
+        "w5": "intervento",
+        "solution": "assistenza"
+    },
+    {
+        "w1": "bocca",
+        "w2": "pappagallo",
+        "w3": "prendere",
+        "w4": "giornata",
+        "w5": "piede",
+        "solution": "storta"
+    },
+    {
+        "w1": "gente",
+        "w2": "fenomeno",
+        "w3": "nera",
+        "w4": "pozza",
+        "w5": "alta",
+        "solution": "marea"
+    },
+    {
+        "w1": "credere",
+        "w2": "secolo",
+        "w3": "scientifico",
+        "w4": "lavori",
+        "w5": "conoscenza",
+        "solution": "progresso"
+    },
+    {
+        "w1": "niente",
+        "w2": "nascita",
+        "w3": "impiegato",
+        "w4": "mortale",
+        "w5": "mal",
+        "solution": "comune"
+    },
+    {
+        "w1": "rivista",
+        "w2": "festa",
+        "w3": "scena",
+        "w4": "mal",
+        "w5": "uomo",
+        "solution": "costume"
+    },
+    {
+        "w1": "sedere",
+        "w2": "spalla",
+        "w3": "muro",
+        "w4": "voce",
+        "w5": "bianco",
+        "solution": "pianoforte"
+    },
+    {
+        "w1": "notte",
+        "w2": "uomo",
+        "w3": "santa",
+        "w4": "messa",
+        "w5": "pazienza",
+        "solution": "opera"
+    },
+    {
+        "w1": "legge",
+        "w2": "cani",
+        "w3": "domanda",
+        "w4": "città",
+        "w5": "internazionale",
+        "solution": "adozione"
+    },
+    {
+        "w1": "novità",
+        "w2": "negozio",
+        "w3": "piano",
+        "w4": "muro",
+        "w5": "scolastica",
+        "solution": "libreria"
+    },
+    {
+        "w1": "cerimonia",
+        "w2": "proposte",
+        "w3": "carte",
+        "w4": "muovere",
+        "w5": "seta",
+        "solution": "ventaglio"
+    },
+    {
+        "w1": "vita",
+        "w2": "digitale",
+        "w3": "prova",
+        "w4": "genio",
+        "w5": "completo",
+        "solution": "artista"
+    },
+    {
+        "w1": "parlare",
+        "w2": "sportivo",
+        "w3": "bianco",
+        "w4": "onore",
+        "w5": "sconto",
+        "solution": "codice"
+    },
+    {
+        "w1": "mondo",
+        "w2": "come",
+        "w3": "fino",
+        "w4": "cinema",
+        "w5": "tempo",
+        "solution": "oggi"
+    },
+    {
+        "w1": "dare",
+        "w2": "sotto",
+        "w3": "segreto",
+        "w4": "luogo",
+        "w5": "avanti",
+        "solution": "passaggio"
+    },
+    {
+        "w1": "aspettare",
+        "w2": "ufficiale",
+        "w3": "tutta",
+        "w4": "pronta",
+        "w5": "messaggio",
+        "solution": "risposta"
+    },
+    {
+        "w1": "dare",
+        "w2": "totale",
+        "w3": "volante",
+        "w4": "passato",
+        "w5": "cinque",
+        "solution": "calcio"
+    },
+    {
+        "w1": "essere",
+        "w2": "merce",
+        "w3": "giro",
+        "w4": "ritorno",
+        "w5": "chiusa",
+        "solution": "partita"
+    },
+    {
+        "w1": "tema",
+        "w2": "terreno",
+        "w3": "correre",
+        "w4": "luogo",
+        "w5": "ritorno",
+        "solution": "incontro"
+    },
+    {
+        "w1": "lavoro",
+        "w2": "matematica",
+        "w3": "armi",
+        "w4": "calcoli",
+        "w5": "strumenti",
+        "solution": "precisione"
+    },
+    {
+        "w1": "mare",
+        "w2": "uomo",
+        "w3": "buono",
+        "w4": "consiglio",
+        "w5": "chiesa",
+        "solution": "stato"
+    },
+    {
+        "w1": "avviso",
+        "w2": "bandiera",
+        "w3": "mettere",
+        "w4": "base",
+        "w5": "pubblica",
+        "solution": "asta"
+    },
+    {
+        "w1": "ufficiale",
+        "w2": "fuori",
+        "w3": "fare",
+        "w4": "commerciale",
+        "w5": "collisione",
+        "solution": "rotta"
+    },
+    {
+        "w1": "professore",
+        "w2": "banco",
+        "w3": "acqua",
+        "w4": "testa",
+        "w5": "forma",
+        "solution": "nuvole"
+    },
+    {
+        "w1": "uomo",
+        "w2": "pietra",
+        "w3": "vivere",
+        "w4": "voce",
+        "w5": "dito",
+        "solution": "luna"
+    },
+    {
+        "w1": "piazza",
+        "w2": "addio",
+        "w3": "nostro",
+        "w4": "doppio",
+        "w5": "capodanno",
+        "solution": "concerto"
+    },
+    {
+        "w1": "vino",
+        "w2": "tema",
+        "w3": "gita",
+        "w4": "principio",
+        "w5": "scoperta",
+        "solution": "piacere"
+    },
+    {
+        "w1": "egoista",
+        "w2": "tartaruga",
+        "w3": "rossa",
+        "w4": "gentile",
+        "w5": "confezione",
+        "solution": "gigante"
+    },
+    {
+        "w1": "oltre",
+        "w2": "ladri",
+        "w3": "giro",
+        "w4": "tunnel",
+        "w5": "tirare",
+        "solution": "manica"
+    },
+    {
+        "w1": "idee",
+        "w2": "bocca",
+        "w3": "isola",
+        "w4": "sottomarino",
+        "w5": "spock",
+        "solution": "vulcano"
+    },
+    {
+        "w1": "problema",
+        "w2": "profondo",
+        "w3": "arrivare",
+        "w4": "inverno",
+        "w5": "tenebra",
+        "solution": "cuore"
+    },
+    {
+        "w1": "tutto",
+        "w2": "tessuto",
+        "w3": "lavoro",
+        "w4": "acciaio",
+        "w5": "volontari",
+        "solution": "muscoli"
+    },
+    {
+        "w1": "carico",
+        "w2": "periodo",
+        "w3": "generale",
+        "w4": "contro",
+        "w5": "acquisto",
+        "solution": "prova"
+    },
+    {
+        "w1": "sorpresa",
+        "w2": "legge",
+        "w3": "fare",
+        "w4": "visto",
+        "w5": "regolare",
+        "solution": "domanda"
+    },
+    {
+        "w1": "avere",
+        "w2": "senza",
+        "w3": "voto",
+        "w4": "prima",
+        "w5": "ferma",
+        "solution": "intenzione"
+    },
+    {
+        "w1": "mal",
+        "w2": "critica",
+        "w3": "epoca",
+        "w4": "difesa",
+        "w5": "parco",
+        "solution": "auto"
+    },
+    {
+        "w1": "lettera",
+        "w2": "fuori",
+        "w3": "intervento",
+        "w4": "informazione",
+        "w5": "fondo",
+        "solution": "garanzia"
+    },
+    {
+        "w1": "john",
+        "w2": "figura",
+        "w3": "italia",
+        "w4": "cavallo",
+        "w5": "radio",
+        "solution": "fante"
+    },
+    {
+        "w1": "raccogliere",
+        "w2": "integrale",
+        "w3": "sondaggio",
+        "w4": "tv",
+        "w5": "fellini",
+        "solution": "intervista"
+    },
+    {
+        "w1": "vangelo",
+        "w2": "sportivo",
+        "w3": "nota",
+        "w4": "nessun",
+        "w5": "lasciare",
+        "solution": "commento"
+    },
+    {
+        "w1": "tevere",
+        "w2": "politica",
+        "w3": "stampa",
+        "w4": "onore",
+        "w5": "posto",
+        "solution": "tribuna"
+    },
+    {
+        "w1": "grande",
+        "w2": "senza",
+        "w3": "reale",
+        "w4": "cogliere",
+        "w5": "nomi",
+        "solution": "significato"
+    },
+    {
+        "w1": "contare",
+        "w2": "malattia",
+        "w3": "festa",
+        "w4": "cento",
+        "w5": "santi",
+        "solution": "giorni"
+    },
+    {
+        "w1": "centro",
+        "w2": "piaceri",
+        "w3": "capo",
+        "w4": "mettere",
+        "w5": "reale",
+        "solution": "tavola"
+    },
+    {
+        "w1": "padrone",
+        "w2": "quadro",
+        "w3": "altezza",
+        "w4": "difficile",
+        "w5": "meteo",
+        "solution": "situazione"
+    },
+    {
+        "w1": "campo",
+        "w2": "erba",
+        "w3": "occhiali",
+        "w4": "mono",
+        "w5": "estremo",
+        "solution": "sci"
+    },
+    {
+        "w1": "familiare",
+        "w2": "diritto",
+        "w3": "partita",
+        "w4": "bianca",
+        "w5": "pagina",
+        "solution": "cronaca"
+    },
+    {
+        "w1": "finestra",
+        "w2": "vestire",
+        "w3": "volto",
+        "w4": "chiara",
+        "w5": "chiaro",
+        "solution": "scuro"
+    },
+    {
+        "w1": "battuta",
+        "w2": "cassa",
+        "w3": "risposta",
+        "w4": "pappa",
+        "w5": "guarigione",
+        "solution": "pronta"
+    },
+    {
+        "w1": "fondo",
+        "w2": "punto",
+        "w3": "angolo",
+        "w4": "vapore",
+        "w5": "dente",
+        "solution": "cottura"
+    },
+    {
+        "w1": "lettera",
+        "w2": "fiducia",
+        "w3": "agnelli",
+        "w4": "difensore",
+        "w5": "parcella",
+        "solution": "avvocato"
+    },
+    {
+        "w1": "mettere",
+        "w2": "lavoro",
+        "w3": "libro",
+        "w4": "backup",
+        "w5": "incolla",
+        "solution": "copia"
+    },
+    {
+        "w1": "telefono",
+        "w2": "velluto",
+        "w3": "giorno",
+        "w4": "cielo",
+        "w5": "topo",
+        "solution": "grigio"
+    },
+    {
+        "w1": "pubblico",
+        "w2": "silenzio",
+        "w3": "armi",
+        "w4": "mappamondo",
+        "w5": "pesi",
+        "solution": "sala"
+    },
+    {
+        "w1": "carriera",
+        "w2": "essere",
+        "w3": "luce",
+        "w4": "attore",
+        "w5": "discorso",
+        "solution": "brillante"
+    },
+    {
+        "w1": "bere",
+        "w2": "contro",
+        "w3": "cattiva",
+        "w4": "popolare",
+        "w5": "ultime",
+        "solution": "volontà"
+    },
+    {
+        "w1": "prendere",
+        "w2": "gomito",
+        "w3": "punto",
+        "w4": "tasca",
+        "w5": "buco",
+        "solution": "toppa"
+    },
+    {
+        "w1": "pari",
+        "w2": "pace",
+        "w3": "sosta",
+        "w4": "motivo",
+        "w5": "famiglia",
+        "solution": "senza"
+    },
+    {
+        "w1": "salire",
+        "w2": "giustizia",
+        "w3": "piatto",
+        "w4": "farmacista",
+        "w5": "ago",
+        "solution": "bilancia"
+    },
+    {
+        "w1": "aperto",
+        "w2": "cuore",
+        "w3": "santo",
+        "w4": "cinema",
+        "w5": "donna",
+        "solution": "festa"
+    },
+    {
+        "w1": "richiamo",
+        "w2": "medico",
+        "w3": "inglese",
+        "w4": "africa",
+        "w5": "comunicazione",
+        "solution": "campagna"
+    },
+    {
+        "w1": "cavo",
+        "w2": "cono",
+        "w3": "busto",
+        "w4": "albero",
+        "w5": "licenziare",
+        "solution": "tronco"
+    },
+    {
+        "w1": "stato",
+        "w2": "anni",
+        "w3": "modello",
+        "w4": "uscire",
+        "w5": "piombi",
+        "solution": "prigione"
+    },
+    {
+        "w1": "cura",
+        "w2": "pietre",
+        "w3": "alto",
+        "w4": "azzurro",
+        "w5": "occhi",
+        "solution": "sole"
+    },
+    {
+        "w1": "notte",
+        "w2": "corso",
+        "w3": "tutti",
+        "w4": "fedele",
+        "w5": "bui",
+        "solution": "secoli"
+    },
+    {
+        "w1": "presidente",
+        "w2": "essere",
+        "w3": "pagina",
+        "w4": "auguri",
+        "w5": "caldo",
+        "solution": "benvenuto"
+    },
+    {
+        "w1": "giorno",
+        "w2": "sotto",
+        "w3": "seno",
+        "w4": "batteria",
+        "w5": "carta",
+        "solution": "piatto"
+    },
+    {
+        "w1": "colpo",
+        "w2": "fare",
+        "w3": "edificio",
+        "w4": "cappello",
+        "w5": "paracadute",
+        "solution": "ala"
+    },
+    {
+        "w1": "dare",
+        "w2": "prima",
+        "w3": "tanto",
+        "w4": "soli",
+        "w5": "gioventù",
+        "solution": "meglio"
+    },
+    {
+        "w1": "gol",
+        "w2": "punta",
+        "w3": "batti",
+        "w4": "donna",
+        "w5": "rompere",
+        "solution": "tacco"
+    },
+    {
+        "w1": "euro",
+        "w2": "paesaggio",
+        "w3": "peso",
+        "w4": "campioni",
+        "w5": "lusso",
+        "solution": "categoria"
+    },
+    {
+        "w1": "senza",
+        "w2": "scelta",
+        "w3": "seguire",
+        "w4": "temporale",
+        "w5": "valutazione",
+        "solution": "criterio"
+    },
+    {
+        "w1": "prendere",
+        "w2": "piazza",
+        "w3": "margine",
+        "w4": "lungo",
+        "w5": "factotum",
+        "solution": "largo"
+    },
+    {
+        "w1": "voce",
+        "w2": "scorrere",
+        "w3": "capo",
+        "w4": "locale",
+        "w5": "desideri",
+        "solution": "lista"
+    },
+    {
+        "w1": "mettere",
+        "w2": "tutto",
+        "w3": "continente",
+        "w4": "san giovanni",
+        "w5": "senso",
+        "solution": "sesto"
+    },
+    {
+        "w1": "portare",
+        "w2": "forte",
+        "w3": "costi",
+        "w4": "grossa",
+        "w5": "erba",
+        "solution": "taglia"
+    },
+    {
+        "w1": "vita",
+        "w2": "servire",
+        "w3": "domicilio",
+        "w4": "ora",
+        "w5": "sci",
+        "solution": "lezione"
+    },
+    {
+        "w1": "acqua",
+        "w2": "onda",
+        "w3": "capo",
+        "w4": "sempre",
+        "w5": "essere",
+        "solution": "verde"
+    },
+    {
+        "w1": "uomo",
+        "w2": "bianco",
+        "w3": "gridare",
+        "w4": "mare",
+        "w5": "san francesco",
+        "solution": "lupo"
+    },
+    {
+        "w1": "regalo",
+        "w2": "tempo",
+        "w3": "essere",
+        "w4": "impresa",
+        "w5": "superficie",
+        "solution": "utile"
+    },
+    {
+        "w1": "genere",
+        "w2": "partita",
+        "w3": "ritiro",
+        "w4": "lusso",
+        "w5": "scambio",
+        "solution": "merce"
+    },
+    {
+        "w1": "aperto",
+        "w2": "prova",
+        "w3": "spia",
+        "w4": "gelato",
+        "w5": "radio",
+        "solution": "microfono"
+    },
+    {
+        "w1": "dare",
+        "w2": "primo",
+        "w3": "ultimo",
+        "w4": "apostrofo",
+        "w5": "guida",
+        "solution": "bacio"
+    },
+    {
+        "w1": "città",
+        "w2": "tv",
+        "w3": "vita",
+        "w4": "oggi",
+        "w5": "gioco",
+        "solution": "ragazzi"
+    },
+    {
+        "w1": "lasciare",
+        "w2": "bianco",
+        "w3": "vento",
+        "w4": "rifiuto",
+        "w5": "timbro",
+        "solution": "secco"
+    },
+    {
+        "w1": "latte",
+        "w2": "tè",
+        "w3": "glaciale",
+        "w4": "foglie",
+        "w5": "romana",
+        "solution": "menta"
+    },
+    {
+        "w1": "gente",
+        "w2": "organizzare",
+        "w3": "delitto",
+        "w4": "sociale",
+        "w5": "natale",
+        "solution": "cena"
+    },
+    {
+        "w1": "terra",
+        "w2": "incidente",
+        "w3": "guardia",
+        "w4": "oltre",
+        "w5": "spirito",
+        "solution": "frontiera"
+    },
+    {
+        "w1": "traffico",
+        "w2": "borsa",
+        "w3": "giorno",
+        "w4": "conto",
+        "w5": "cerimonia",
+        "solution": "chiusura"
+    },
+    {
+        "w1": "fare",
+        "w2": "rivista",
+        "w3": "mobile",
+        "w4": "immagini",
+        "w5": "romana",
+        "solution": "epoca"
+    },
+    {
+        "w1": "andare",
+        "w2": "titolo",
+        "w3": "messico",
+        "w4": "nuova",
+        "w5": "terreno",
+        "solution": "conquista"
+    },
+    {
+        "w1": "curva",
+        "w2": "scala",
+        "w3": "dare",
+        "w4": "salto",
+        "w5": "vegetale",
+        "solution": "corda"
+    },
+    {
+        "w1": "andare",
+        "w2": "macchina",
+        "w3": "danni",
+        "w4": "filo",
+        "w5": "mangia",
+        "solution": "fumo"
+    },
+    {
+        "w1": "regalo",
+        "w2": "combattere",
+        "w3": "sale",
+        "w4": "felice",
+        "w5": "fondo",
+        "solution": "idea"
+    },
+    {
+        "w1": "bandiera",
+        "w2": "coltelli",
+        "w3": "caponi",
+        "w4": "marx",
+        "w5": "italia",
+        "solution": "fratelli"
+    },
+    {
+        "w1": "dare",
+        "w2": "camera",
+        "w3": "consiglio",
+        "w4": "misura",
+        "w5": "stato",
+        "solution": "sicurezza"
+    },
+    {
+        "w1": "vento",
+        "w2": "speciale",
+        "w3": "zona",
+        "w4": "kappa",
+        "w5": "custodia",
+        "solution": "agente"
+    },
+    {
+        "w1": "espressione",
+        "w2": "bisogno",
+        "w3": "profondo",
+        "w4": "influenza",
+        "w5": "stima",
+        "solution": "affetto"
+    },
+    {
+        "w1": "uomo",
+        "w2": "bocca",
+        "w3": "fossi",
+        "w4": "nuotare",
+        "w5": "gonfio",
+        "solution": "rana"
+    },
+    {
+        "w1": "primo",
+        "w2": "montare",
+        "w3": "salvo",
+        "w4": "verso",
+        "w5": "uovo",
+        "solution": "pelo"
+    },
+    {
+        "w1": "parola",
+        "w2": "stato",
+        "w3": "sotto",
+        "w4": "capo",
+        "w5": "gratuita",
+        "solution": "accusa"
+    },
+    {
+        "w1": "maestro",
+        "w2": "aggiungere",
+        "w3": "laurea",
+        "w4": "classe",
+        "w5": "palla",
+        "solution": "tocco"
+    },
+    {
+        "w1": "atto",
+        "w2": "terra",
+        "w3": "posizione",
+        "w4": "carico",
+        "w5": "tenere",
+        "solution": "presa"
+    },
+    {
+        "w1": "cuore",
+        "w2": "fare",
+        "w3": "sola",
+        "w4": "viva",
+        "w5": "ciao",
+        "solution": "mamma"
+    },
+    {
+        "w1": "segno",
+        "w2": "coppa",
+        "w3": "richiesta",
+        "w4": "lunga",
+        "w5": "rompere",
+        "solution": "amicizia"
+    },
+    {
+        "w1": "miracolo",
+        "w2": "leggi",
+        "w3": "ritorno",
+        "w4": "secondo",
+        "w5": "dono",
+        "solution": "natura"
+    },
+    {
+        "w1": "frutto",
+        "w2": "comune",
+        "w3": "fare",
+        "w4": "campo",
+        "w5": "brutta",
+        "solution": "esperienza"
+    },
+    {
+        "w1": "buon",
+        "w2": "venire",
+        "w3": "favore",
+        "w4": "domanda",
+        "w5": "forza",
+        "solution": "punto"
+    },
+    {
+        "w1": "militare",
+        "w2": "giudizio",
+        "w3": "tele",
+        "w4": "duplice",
+        "w5": "raggiungere",
+        "solution": "obiettivo"
+    },
+    {
+        "w1": "piatto",
+        "w2": "tavola",
+        "w3": "mano",
+        "w4": "sembrare",
+        "w5": "copia",
+        "solution": "dipinto"
+    },
+    {
+        "w1": "unità",
+        "w2": "goal",
+        "w3": "passare",
+        "w4": "legale",
+        "w5": "ciak",
+        "solution": "azione"
+    },
+    {
+        "w1": "miss",
+        "w2": "parete",
+        "w3": "curva",
+        "w4": "capo",
+        "w5": "albergo",
+        "solution": "nord"
+    },
+    {
+        "w1": "mia martini",
+        "w2": "pranzo",
+        "w3": "osservare",
+        "w4": "sciatore",
+        "w5": "museo",
+        "solution": "domenica"
+    },
+    {
+        "w1": "stampa",
+        "w2": "pari",
+        "w3": "luogo",
+        "w4": "alte",
+        "w5": "orgoglio",
+        "solution": "dignità"
+    },
+    {
+        "w1": "uomo",
+        "w2": "reale",
+        "w3": "macchina",
+        "w4": "bianco",
+        "w5": "tirare",
+        "solution": "pasta"
+    },
+    {
+        "w1": "povero",
+        "w2": "completo",
+        "w3": "mente",
+        "w4": "strada",
+        "w5": "animali",
+        "solution": "cibo"
+    },
+    {
+        "w1": "parlare",
+        "w2": "caro",
+        "w3": "buon",
+        "w4": "nessuno",
+        "w5": "secondo",
+        "solution": "nome"
+    },
+    {
+        "w1": "mare",
+        "w2": "punto",
+        "w3": "libero",
+        "w4": "test",
+        "w5": "credito",
+        "solution": "accesso"
+    },
+    {
+        "w1": "corso",
+        "w2": "fuoco",
+        "w3": "entrare",
+        "w4": "mondiale",
+        "w5": "interessi",
+        "solution": "conflitto"
+    },
+    {
+        "w1": "erba",
+        "w2": "sangue",
+        "w3": "indagine",
+        "w4": "prova",
+        "w5": "miss",
+        "solution": "campione"
+    },
+    {
+        "w1": "rito",
+        "w2": "profondità",
+        "w3": "essere",
+        "w4": "india",
+        "w5": "chiave",
+        "solution": "passaggio"
+    },
+    {
+        "w1": "essere",
+        "w2": "prezzo",
+        "w3": "fermo",
+        "w4": "capitale",
+        "w5": "regolare",
+        "solution": "partenza"
+    },
+    {
+        "w1": "regola",
+        "w2": "parole",
+        "w3": "alberi",
+        "w4": "perfetto",
+        "w5": "fa",
+        "solution": "tre"
+    },
+    {
+        "w1": "fortuna",
+        "w2": "sicuro",
+        "w3": "naturale",
+        "w4": "pioggia",
+        "w5": "essere",
+        "solution": "riparo"
+    },
+    {
+        "w1": "leggero",
+        "w2": "barba",
+        "w3": "togliere",
+        "w4": "viso",
+        "w5": "inganno",
+        "solution": "trucco"
+    },
+    {
+        "w1": "Coperto",
+        "w2": "Compagnia",
+        "w3": "Auto",
+        "w4": "Agente",
+        "w5": "Vita",
+        "solution": "Assicurazione"
+    },
+    {
+        "w1": "Banda",
+        "w2": "Polso",
+        "w3": "Radio",
+        "w4": "Attestato",
+        "w5": "Obbligo",
+        "solution": "Frequenza"
+    }
+]

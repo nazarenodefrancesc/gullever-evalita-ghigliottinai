@@ -531,7 +531,6 @@ aimo
 aimone
 airaldo
 aiuto
-ala
 aladina
 aladino
 alaghiera
@@ -1488,8 +1487,6 @@ benso
 bentivoglio
 benuccia
 benuccio
-benvenuta
-benvenuto
 bepi
 beppa
 beppe
@@ -1621,13 +1618,11 @@ brigida
 brigidina
 brigido
 brigitta
-brillante
 brillantina
 brillantino
 brizia
 brizio
 broccola
-bruna
 brunaldino
 brunaldo
 brunella
@@ -2222,10 +2217,8 @@ deanna
 debora
 decenzio
 decia
-decima
 decimina
 decimino
-decimo
 decio
 dedalo
 defendente
@@ -2952,7 +2945,6 @@ estella
 ester
 esterina
 esterino
-estero
 esuberanzio
 esuberanzo
 esule
@@ -4482,7 +4474,6 @@ giustina
 giustiniana
 giustiniano
 giustino
-giusto
 giziano
 gizio
 glauca
@@ -4491,7 +4482,6 @@ glenda
 gliceria
 glicerio
 glisente
-gloria
 gloriana
 gloriano
 glorietta
@@ -4533,11 +4523,7 @@ gradisca
 gradisco
 gradita
 gradito
-grado
-grata
 gratiliano
-grato
-grazia
 graziadio
 graziana
 graziano
@@ -4551,8 +4537,6 @@ graziolo
 graziosa
 grazioso
 graziosuccio
-greca
-greco
 gregoria
 gregorina
 gregorio
@@ -6193,8 +6177,6 @@ nola
 nolano
 nolasco
 nolberto
-nona
-nono
 nora
 noradino
 norandino
@@ -6623,7 +6605,6 @@ opimio
 oppilio
 oprandina
 oprando
-ora
 oralda
 oraldo
 orana
@@ -6981,7 +6962,6 @@ otina
 otino
 oto
 ottanzia
-ottava
 ottavia
 ottaviana
 ottaviano
@@ -6989,7 +6969,6 @@ ottavilla
 ottavina
 ottavino
 ottavio
-ottavo
 ottelia
 ottelio
 ottello
@@ -7334,7 +7313,6 @@ prisco
 proba
 procolo
 procopio
-progresso
 prometeo
 properzio
 prosdocimo
@@ -7365,7 +7343,6 @@ purifico
 purissima
 quadrio
 qualtiero
-quarta
 quartiero
 quartiglia
 quartilia
@@ -7382,7 +7359,6 @@ querrino
 quido
 quieta
 quindalina
-quinta
 quintalina
 quintalino
 quintiglia
@@ -7399,7 +7375,6 @@ quintillio
 quintillo
 quintina
 quintino
-quinto
 quinzia
 quinziano
 quinzio
@@ -7737,7 +7712,6 @@ risvelio
 rita
 ritanna
 ritano
-ritardo
 rituccio
 riva
 rivaldo
@@ -8117,12 +8091,8 @@ scolastica
 scolastico
 sebastiana
 sebastiano
-seconda
 secondiana
 secondiano
-secondina
-secondino
-secondo
 sefora
 selena
 selene
@@ -8161,20 +8131,16 @@ servilia
 servilio
 servio
 servolo
-sesta
 sestilia
 sestilio
 sestina
 sestino
-sesto
 settembrina
 settembrino
-settima
 settimia
 settimina
 settimino
 settimio
-settimo
 severa
 severiana
 severiano

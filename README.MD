@@ -30,7 +30,7 @@
     - docker build -t evalita-ghigliottinai:<data> .
 
 - Run immagine docker:
-    - docker run -p 5001:5001 --name evalita-ghigliottinai evalita-ghigliottinai:<data>
+    - docker run --name evalita-ghigliottinai -d -i -t -p 5001:5001 evalita-ghigliottinai:<data>
     
 - Come interrogare il server (GET):	
     - http://localhost:5001/solve_guillotine?guillotine=gerusalemme,quattro,fuori,castello,lunghe

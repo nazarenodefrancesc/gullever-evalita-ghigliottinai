@@ -72,21 +72,22 @@ setup(
     author_email="nazareno.defrancesco@celi.it",
     description="",
     # cmdclass={"develop": PostDevelopCommand, "install": PostInstallCommand,},
-    python_requires=">=3.7",
+    python_requires=">=3.6",
     install_requires=[
         "numpy==1.18.1",
         "pandas==1.0.3",
         "deap==1.3.1",
         "gensim==3.7.3",
-        "spacy-stanza==0.2.1",
-        "stanza==1.0.1",
+        # "spacy-stanza==0.2.1",
+        # "stanza==1.0.1",
         "matplotlib==3.2.2",
         "scikit-learn==0.23.1",
         "nltk==3.5",
         "numba==0.50.1",
         "stop_words",
         "py7zr",
-        "Flask==1.1.2"
+        "Flask==1.1.2",
+        "requests==2.24.0"
     ],
 )
 

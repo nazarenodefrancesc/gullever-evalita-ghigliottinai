@@ -12,7 +12,7 @@ from collections import defaultdict
 
 import flask
 import config
-from texmega import texmega_utils, texmega
+from texmega import texmega_utils_no_stanza, texmega_no_stanza
 from flask import Flask, request, jsonify, json
 
 import logging.config
@@ -21,13 +21,6 @@ from logging_conf import LOGGING_CONF
 log = logging.getLogger()
 logging.config.dictConfig(LOGGING_CONF)
 
-import stanza
-
-for lang in ["it"]:
-    try:
-        stanza.Pipeline(lang)
-    except:
-        stanza.download(lang)
 
 ### VARIABLES
 
@@ -130,14 +123,14 @@ def loadModel():
         stemm_cache,
         norm_idfs,
         filter_list,
-    ) = texmega_utils.load_necessary_components()
+    ) = texmega_utils_no_stanza.load_necessary_components()
 
-    texmega_utils.check_if_words_are_in_filterlist(filter_list)
-    texmega_utils.check_solutions_pos(lemma_pos_cache, whitewords)
+    texmega_utils_no_stanza.check_if_words_are_in_filterlist(filter_list)
+    texmega_utils_no_stanza.check_solutions_pos(lemma_pos_cache, whitewords)
 
     if not config.ONLY_MOST_SIMILAR:
         all_word_in_vocab = list(model.wv.vocab)
-        all_word_in_vocab = texmega_utils.filter_vocab(
+        all_word_in_vocab = texmega_utils_no_stanza.filter_vocab(
             all_word_in_vocab,
             [],
             "SOLUTION",
@@ -158,7 +151,7 @@ def solve_guillotine(wordlist):
 
     # Checking wordlist, removing not existing words
     log.info(f"Checking wordlist...")
-    wordlist = texmega_utils.checkWordlist(model, lemma_pos_cache, wordlist)
+    wordlist = texmega_utils_no_stanza.checkWordlist(model, lemma_pos_cache, wordlist)
 
     if len(wordlist) < 2:
         log.error(
@@ -166,7 +159,7 @@ def solve_guillotine(wordlist):
         )
 
     if config.ONLY_MOST_SIMILAR:
-        all_word_in_vocab = texmega_utils.get_most_similar(
+        all_word_in_vocab = texmega_utils_no_stanza.get_most_similar(
             wordlist,
             model,
             filter_list,
@@ -177,7 +170,7 @@ def solve_guillotine(wordlist):
             norm_idfs,
         )
 
-    best_matches, found, solution_position, solution_match = texmega.exhaustive_search(
+    best_matches, found, solution_position, solution_match = texmega_no_stanza.exhaustive_search(
         all_word_in_vocab,
         model,
         wordlist,
@@ -190,7 +183,7 @@ def solve_guillotine(wordlist):
     )
 
     solution = best_matches[0][0]
-    texmega_utils.print_cosins_of_bestmatches(best_matches, model, norm_idfs, solution, wordlist, n=3)
+    texmega_utils_no_stanza.print_cosins_of_bestmatches(best_matches, model, norm_idfs, solution, wordlist, n=3)
 
     return solution, best_matches
 
@@ -218,3 +211,4 @@ log.info(f"Running on port:: {port}")
 
 loadModel()
 app.run(host="0.0.0.0", port=port)
+

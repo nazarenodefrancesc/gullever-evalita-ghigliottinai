@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 _check_zips.py
 
+# Extracted .pkl files (generated from .pkl.zip, do not commit)
+cooccurrence_matrix/*.pkl
+resources/embeddings/*.pkl
+resources/lemma_pos_cache/*.pkl
+resources/word_norm_idf/*.pkl
+

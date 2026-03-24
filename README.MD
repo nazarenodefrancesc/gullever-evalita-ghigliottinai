@@ -107,15 +107,24 @@ GET http://localhost:5001/solve_guillotine?guillotine=gerusalemme,quattro,fuori,
 
 ### Docker
 
+**One-liner** — unzip, build and run:
+```bash
+find . -name "*.pkl.zip" -exec sh -c 'unzip -o "$1" -d "$(dirname "$1")"' _ {} \; && docker compose up --build -d
+```
+
+Or step by step:
 ```bash
 # Build
-docker build -t gulliver-ghigliottinai .
+docker compose build
 
 # Run
-docker run --name gulliver -d -p 9000:9000 gulliver-ghigliottinai
+docker compose up -d
 
 # Query
 curl "http://localhost:9000/solve_guillotine?guillotine=gerusalemme,quattro,fuori,castello,lunghe"
+
+# Stop
+docker compose down
 ```
 
 ---

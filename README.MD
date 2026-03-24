@@ -30,14 +30,30 @@ The system participated in the [Ghigliottin-AI shared task](https://ghigliottin-
 ### Prerequisites
 
 - Python 3.7+
-- [Git LFS](https://git-lfs.github.com/) (large binary files are stored via Git LFS)
+- [Git LFS](https://git-lfs.github.com/) — **required** to download the large binary files (`.pkl.zip`) stored in this repository
 
 ### 1. Clone the repository
 
+> ⚠️ **Important:** This repository uses **Git LFS** for large files. If you clone without Git LFS, the `.pkl.zip` files will be tiny pointer files (~130 bytes) instead of the actual data, and the system will not work.
+
+**Option A — Git LFS installed (recommended):**
 ```bash
 git lfs install
 git clone https://github.com/nazarenodefrancesc/gullever-evalita-ghigliottinai.git
 cd gullever-evalita-ghigliottinai
+```
+
+**Option B — Already cloned without Git LFS:**
+```bash
+# Install Git LFS, then fetch the real files
+git lfs install
+git lfs pull
+```
+
+You can verify that the files were downloaded correctly by checking their sizes:
+```bash
+# Each .pkl.zip should be at least several hundred KB. If you see ~130 bytes, LFS pull is needed.
+find . -name "*.pkl.zip" -exec ls -lh {} \;
 ```
 
 ### 2. Decompress resource files

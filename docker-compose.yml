@@ -1,0 +1,8 @@
+services:
+  ghigliottinai:
+    build: .
+    container_name: gulliver-ghigliottinai
+    ports:
+      - "9000:9000"
+    restart: unless-stopped
+

@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-RUN apt-get update && apt-get install -y uwsgi uwsgi-plugin-python3 python3 python3-pip
+RUN apt-get update && apt-get install -y uwsgi uwsgi-plugin-python3 python3 python3-pip unzip
 
 WORKDIR /srv/ghigliottinai
 COPY ./server_rest_lite.py /srv/ghigliottinai
@@ -10,6 +10,9 @@ COPY ./logging_conf.py /srv/ghigliottinai
 COPY ./resources /srv/ghigliottinai/resources
 COPY ./texmega /srv/ghigliottinai/texmega
 COPY ./cooccurrence_matrix /srv/ghigliottinai/cooccurrence_matrix
+
+# Decompress all .pkl.zip archives and remove the zips
+RUN find /srv/ghigliottinai -name "*.pkl.zip" -exec sh -c 'unzip -o "$1" -d "$(dirname "$1")" && rm "$1"' _ {} \;
 
 RUN useradd uwsgi
 RUN pip3 install --user -e /srv/ghigliottinai
